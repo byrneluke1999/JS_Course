@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(https://wallup.net/wp-content/uploads/2016/07/19/20675-music-concerts-748x421.jpg) bottom center;
+  background: url(http://www.4usky.com/data/out/21/164170303-concert-wallpapers.jpg) bottom center;
   background-size: cover;
 }
 
@@ -34,8 +34,8 @@ body,html {
 
 .playing {
   transform: scale(1.1);
-  border-color: #2a7bd8;
-  box-shadow: 0 0 1rem #2a7bd8;
+  border-color: #0cbfe9;
+  box-shadow: 0 0 1rem #0cbfe9;
 }
 
 kbd {
@@ -47,5 +47,5 @@ kbd {
   font-size: 1.2rem;
   text-transform: uppercase;
   letter-spacing: .1rem;
-  color: #2a7bd8;
+  color: #0cbfe9;
 }
